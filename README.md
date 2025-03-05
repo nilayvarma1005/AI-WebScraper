@@ -21,7 +21,7 @@ Rufus AI-WebScraper is an **intelligent web scraping tool** that extracts releva
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/nilayvarma1005/AI-WebScraper.git
+git clone https://github.com/nilayvarma1005/Rufus-AI-WebScraper.git
 cd AI-WebScraper
 pip install -r requirements.txt
 ```
