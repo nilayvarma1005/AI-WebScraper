@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+aiohttp
+beautifulsoup4
+openai
+asyncio
+aiohttp
+json
+logging
+time
+os
+bs4
+urllib 
+re
+typing
